@@ -21,7 +21,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-//Initial commit
+//Initial comit
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
